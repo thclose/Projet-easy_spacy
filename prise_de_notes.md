@@ -13,7 +13,7 @@ ils ont des avatares personnalisé pour créer une interraction
 * Barre de recherche avec filtrage!!
 * Onglets
     * Capsule
-      *Tous le contenu
+      *Tout le contenu
     * News
         * Actualité du site (blog)
     * A propos de nous
@@ -22,7 +22,7 @@ ils ont des avatares personnalisé pour créer une interraction
         * Permet d'intéragire avec les visitieurs (easyspacy2327@gmail.com)
     * Suivez-nous
         * insta: @easyspacy
-* Page pour la press (Dans le pied page)
+* Page pour la presse (Dans le pied page)
 
 ## Public cible
 
