@@ -16,15 +16,19 @@ Sur cette page,
 
 3) A propos
 
-Sur cette page,
+Sur cette page, il y aura une brève description du parcours des deux clients et de la création de <b>Easy spacy</b>. Les avatares doivent avoir une place importante dans cette pâge.
+
+Cette page contiendra également pleins de rensignements plus généraux sur les deux clients.
 
 4) Contact 
 
-Sur cette page,
+Cette page servira aux visiteurs de contacter les créateurs, afin de proposer, par exemple, des idées de sujet, des questions,...
+
+La partie contact sera composée de plusieurs champs: nom et prénom, adresse mail (pour envoyer un mail de comfirmation d'envois du messge, ou offrir la possibilité aux clients de répondre), message, et pour finir d'un bouton "envoyer".
 
 5) Suivez-nous
 
-Sur cette page,
+Sur cette page, tous les réseaux socieau de <b>Easy spacy</b> seront référencés.
 
 6) Page pour la presse
 
