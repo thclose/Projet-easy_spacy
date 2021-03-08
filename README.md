@@ -109,6 +109,25 @@ En dessous de cette première section il y aura un rappel des réseaux sociaux d
 
 * Pieds de page: idem accueil
 ---
+## Wireframe
+
+### Accueil
+![accueil](./img/Accueil.png)
+
+### A propos
+![about](./img/A%20propos.png)
+
+### Capsules
+![capsule](./img/Capsules.png)
+
+### Capsule x
+![cap.x](./img/Capsule%20n°0000.png)
+
+### Contact
+![contact](./img/Contact.png)
+
+
+
 
 ## Prise de note
 
