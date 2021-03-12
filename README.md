@@ -9,7 +9,9 @@
 
 2. Plan du site
 
-3. Prise de note
+3. Wireframe
+
+4. Prise de note
 
 ---
 ## Stratégie
