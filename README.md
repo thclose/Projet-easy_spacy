@@ -1,132 +1,129 @@
-# Projet-easy_spacy
+# Easy-Spacy
 
-Ce repo a été créé pour un projet scolaire à la HEPL.
+> Ce projet à été créé dans le cadre scolaire pour la HEPL.
+
+---
+## Sommaire
+
+1. Stratégie
+
+2. Plan du site
+
+3. Prise de note
 
 ---
 ## Stratégie
 
-### Besoins des clients
+### Besoins du client
 
-1) Accueil
+* Accueil
+	
+	Sur cette page, il y aura une en-tête avec les différentes pages ainsi q'une barre de recherche qui permettra de chercher des articles, ou des news dans tout le site.
 
-Sur cette page, il y aura une en-tête avec les différentes pages ainsi q'une barre de recherche qui permettra de chercher des articles, ou des news dans tout le site.
+	Ensuite il y aura une section de mini-explication du fonctionnement du site, avec les deux avatares.
 
-Ensuite il y aura une section de mini-explication du fonctionnement du site, avec les deux avatares.
-
-Pour finir, il aura les capsules par ordre de préférence (ou de date?). les capsules sur cette page seront sous forme de preview qui ménerons vers une page dédiée par capsule.
-
-2) News
-
-Sur cette page,
-
-3) A propos
-
-Sur cette page, il y aura une brève description du parcours des deux clients et de la création de <b>Easy spacy</b>. Les avatares doivent avoir une place importante dans cette pâge.
-
-Cette page contiendra également pleins de rensignements plus généraux sur les deux clients.
-
-4) Contact
-
-Cette page servira aux visiteurs de contacter les créateurs, afin de proposer, par exemple, des idées de sujet, des questions,...
-
-La partie contact sera composée de plusieurs champs: nom et prénom, adresse mail (pour envoyer un mail de comfirmation d'envois du messge, ou offrir la possibilité aux clients de répondre), message, et pour finir d'un bouton "envoyer".
-
-5) Suivez-nous
-
-Sur cette page, tous les réseaux socieau de <b>Easy spacy</b> seront référencés.
-
-6) Page pour la presse
-
-Sur cette page,
-
-***
-
-### Plan du site
-
-1. Accueil
-
-* En-tête (header)
-    * Une barre de menu, avec les différents sous-menus et avec une barre de recherche.
-    * Dans cette barre mettre a coté de l'onglet contact vers le profil instagram d'<b>Easy-Spacy</b>.
-    * Un bouton (CTA) vers toutes les capsules
-    * Un bouton (CTA) vers la présentation des fondateurs d'Easy Spacy.
-* Contenu de la page (Body)
-    * Une section de présentation du projet avec le rappel des avatares.
-      Sur cette section, il y aura la précense des deux avatares avec un texte de plus ou moins 5 lignes qui présentera ce que fait <b>Easy Spacy</b>, et le but du site. Cette section sera mise en avant avec une couleur de fond différente du reste de la page.
-    * Une seconde section qui montres les dernières capsules.
-      Ici, sera disposée en mosaïque les prévisualisations les dernières capsules (mosaïque qui rappelera un profil instagram). Chaque préview sera cliquable et mènera vers la pages de la capsule dédiées.
-    * Un bouton qui renverra vers la page de toutes les capsules.
-* Pieds de page (footer)
-    * Lien vers les réseaux sociaux.
-    * Adresse mail.
-    * Redirection vers la page presse.
-    * Lien vers les mentions lègal.
-
-2. Page capsules
-
-* En-tête: idem accueil
-
-* Contenu de la page
-
-Cette page reprendra même mosaïque que la page accueil mais avec toutes les capsules sur cette page il sera également de rechercher une capsules en particulier ainsi que de les trier par type, ou sujet. Pour ce faire il y aura une barre de recherche ainsi que des options d'affinage.
-
-* Pieds de page: idem accueil
-
-3. Page capsule X
-
-* En-tête: idem accueil
-
-* Contenu de la page
-
-Cette page contiendra qu'un seul capsule qui sera mise en quinconce, cad que la première image sera mise par exemple a droite avec son texte explicatif a gauche mais que la seconde sera avec son image à gauche avec son texte explicatif à droite.
-
-Au dessu de cette capsule, il y aura un petit texte explicatif de cette dernière.
+	Pour finir, il aura les capsules par ordre de préférence (ou de date?). les capsules sur cette page seront sous forme de preview qui ménerons vers une page dédiée par capsule.
 
 
-* Pieds de page: idem accueil
+* News
 
-4. A propos de nous
+	Sur cette page,
 
-* En-tête: idem accueil
+* A propos
 
-* Contenu de la page
+	Sur cette page, il y aura une brève description du parcours des deux clients et de la création de Easy spacy. Les avatares doivent avoir une place importante dans cette pâge.
 
-Cette page contiendra deux textes explicatifs, un pour chaque créateur. 
+	Cette page contiendra également pleins de rensignements plus généraux sur les deux clients.
 
-Sur cette page j'aimerai rappeler les avatares? En effet, chaques personnages expliquera son parcours, ... 
+* Contact
 
-* Pieds de page: idem accueil
+	Cette page servira aux visiteurs de contacter les créateurs, afin de proposer, par exemple, des idées de sujet, des questions,...
 
-5. News 
+	La partie contact sera composée de plusieurs champs: nom et prénom, adresse mail (pour envoyer un mail de comfirmation d'envois du messge, ou offrir la possibilité aux clients de répondre), message, et pour finir d'un bouton "envoyer".
 
-* En-tête: idem accueil
+* Suivez-nous
 
-* Contenu de la page
+	Sur cette page, tous les réseaux socieau de Easy spacy seront référencés.
 
-Cette page, il y aura à gauche un texte explicatif du fonctionnement du contact, expliqué par un avatar. A droite de cette page, il y aura un formulaire de contact qui comprendra plusieurs champs: Nom et prénom de la personne, adresse mail de la personne, l'objet du message, le message et un bouton envoyer.
+* Page pour la presse
 
-En dessous de cette première section il y aura un rappel des réseaux sociaux d'<b>Easy Spacy</b>
+	Sur cette page,
 
-* Pieds de page: idem accueil
----
-## Wireframe
+
+## Plan de site
 
 ### Accueil
-![accueil](./img/Accueil.png)
 
-### A propos
-![about](./img/A%20propos.png)
+- En-tête (header)
 
-### Capsules
-![capsule](./img/Capsules.png)
+	Une barre de menu, avec les différents sous-menus et avec une barre de recherche.
+	Dans cette barre mettre a coté de l'onglet contact vers le profil instagram d'Easy-Spacy.
+	Un bouton (CTA) vers toutes les capsules
+	Un bouton (CTA) vers la présentation des fondateurs d'Easy Spacy.
 
-### Capsule x
-![cap.x](./img/Capsule%20n°0000.png)
+-  Contenu de la page (Body)
 
-### Contact
-![contact](./img/Contact.png)
+	Une section de présentation du projet avec le rappel des avatares. Sur cette section, il y aura la précense des deux avatares avec un texte de plus ou moins 5 lignes qui présentera ce que fait Easy Spacy, et le but du site. Cette section sera mise en avant avec une couleur de fond différente du reste de la page.
 
+	Une seconde section qui montres les dernières capsules. Ici, sera disposée en mosaïque les prévisualisations les dernières capsules (mosaïque qui rappelera un profil instagram). Chaque préview sera cliquable et mènera vers la pages de la capsule dédiées.
+Un bouton qui renverra vers la page de toutes les capsules.
 
+- Pieds de page (footer)
+
+	Lien vers les réseaux sociaux.
+	Adresse mail.
+	Redirection vers la page presse.
+	Lien vers les mentions lègal.
+
+### Page capsules
+
+- 	En-tête: idem accueil
+- 	Contenu de la page
+
+	Cette page reprendra même mosaïque que la page accueil mais avec toutes les capsules sur cette page il sera également de rechercher une capsules en particulier ainsi que de les trier par type, ou sujet. Pour ce faire il y aura une barre de recherche ainsi que des options d'affinage.
+
+- Pieds de page: idem accueil
+
+### Page capsule X
+
+- En-tête: idem accueil
+
+- Contenu de la page
+
+	Cette page contiendra qu'un seul capsule qui sera mise en quinconce, cad que la première image sera mise par exemple a droite avec son texte explicatif a gauche mais que la seconde sera avec son image à gauche avec son texte explicatif à droite.
+
+	Au dessus de cette capsule, il y aura un petit texte explicatif de cette dernière.
+
+- Pieds de page: idem accueil
+
+### A propos de nous
+- En-tête: idem accueil
+
+- Contenu de la page
+
+	Cette page contiendra deux textes explicatifs, un pour chaque créateur.
+
+	Sur cette page j'aimerai rappeler les avatares? En effet, chaques personnages expliquera son parcours, ...
+
+- Pieds de page: idem accueil
+### News
+- En-tête: idem accueil
+
+- Contenu de la page
+
+	Cette page, il y aura à gauche un texte explicatif du fonctionnement du contact, expliqué par un avatar. A droite de cette page, il y aura un formulaire de contact qui comprendra plusieurs champs: Nom et prénom de la personne, adresse mail de la personne, l'objet du message, le message et un bouton envoyer.
+
+	En dessous de cette première section il y aura un rappel des réseaux sociaux d'Easy Spacy
+
+- 	Pieds de page: idem accueil
+
+## Wireframe
+
+| Accueil  | A propos   | Capsules  |
+|:----------|:----------|:----------|
+|![accueil](./img/Accueil.png)| ![about](./img/A%20propos.png)    | ![capsule](./img/Capsules.png)    |
+| Capsule X | Contact   | 	         |
+|![cap.x](./img/Capsule%20n°0000.png)    | ![contact](./img/Contact.png)    |           |
 
 
 ## Prise de note
@@ -208,6 +205,12 @@ Les personnes visées sur le site sont les personnes sans instagram.
 
 12. Au niveau format des capsules? Voulez garder le "slide"?
     * Idéalement ce serait bien, il y aura une partie textuel en dessous ou alors <b>il y aura une légende global pour le poste</b>.
+
+
+
+
+
+
 
 
 
